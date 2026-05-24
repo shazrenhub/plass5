@@ -14,12 +14,12 @@ Manual attendance recording using forms causes several problems:
 2. To analyze and display attendance data clearly.
 
 # Scope & Target Group:
-* Scope: To record and display attendance records/analysis for Form 5 students only.
-* Target Group: Only used by teachers (admin) and students.
+* **Scope:** To record and display attendance records/analysis for Form 5 students only.
+* **Target Group:** Only used by teachers (admin) and students.
 
 # Evaluating Existing System (Manual):
-* Weaknesses: Analysis process takes more time, and higher risk of errors during writing.
-* Strengths: Can be accessed without relying on technology/internet, and low cost.
+* **Weaknesses:** Analysis process takes more time, and higher risk of errors during writing.
+* **Strengths:** Can be accessed without relying on technology/internet, and low cost.
 
 # New System Justification:
 * Makes it easier for teachers to receive attendance analysis.
@@ -27,8 +27,8 @@ Manual attendance recording using forms causes several problems:
 
 # Development Tools:
 * **Languages:** PHP, JavaScript, HTML, CSS
-* Database: MySQL
-* Environment: XAMPP
+* **Database:** MySQL
+* **Environment:** XAMPP
 
 ---
 
