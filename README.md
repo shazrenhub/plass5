@@ -38,3 +38,8 @@ Manual attendance recording using forms causes several problems:
 2. Import the `.sql` database file into `phpMyAdmin`.
 3. Ensure the database connection settings in your PHP file match your local database configuration.
 4. Open your browser and navigate to `localhost/your-folder-name`.
+
+---
+
+![System Screenshot](homepage.jpg)
+![System Screenshot](subjectpage.jpg)
