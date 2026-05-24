@@ -26,7 +26,7 @@ Manual attendance recording using forms causes several problems:
 * Speeds up the process of recording and verifying attendance.
 
 # Development Tools:
-* Languages: PHP, JavaScript, HTML, CSS
+* **Languages:** PHP, JavaScript, HTML, CSS
 * Database: MySQL
 * Environment: XAMPP
 
